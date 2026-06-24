@@ -33,4 +33,9 @@
     "vite": "7.3.2",
     "vite-plugin-singlefile": "2.3.0"
   }
+{
+  "name": "anvoria-arc",
+  "version": "0.0.0",
+  "homepage": "https://freeaitoken.github.io/anvoria-arc/"
+}
 }
